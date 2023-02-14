@@ -2,7 +2,7 @@
   "name": "my-todo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://S-tar-K.github.io",
+  "homepage": "https://S-tar-K.github.io/todo-app",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.5",
